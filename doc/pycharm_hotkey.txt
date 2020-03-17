@@ -1,0 +1,7 @@
+//查找
+Ctrl + Shift + N  查找文件
+Ctrl + Shift + F  全局搜索
+
+
+//字体
+1、editor FONT  Lucida  console  15

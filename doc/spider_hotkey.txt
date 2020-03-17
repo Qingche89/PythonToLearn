@@ -1,0 +1,22 @@
+//自定义
+Alt + 3	注释/反注释   toggle comment
+Alt/Ctrl + 4	块注释/块反注释  blockcomment/unblockcomment
+Ctrl + L	跳转到行号
+Tab    /   Shift + Tab	代码缩进/反缩进
+Tab    自动补全
+Alt + 1  显示帮助  inspect current object
+
+F4 run selection 运行当前行的代码 //  Run selection or current line
+F5 run 运行  //Run File
+F1 debug  调试  //Debug File 
+F6 debug step over 下一步  //Run current line
+F7 debug continue 下一个断点 //Continue execution until next breakpoint 
+F9 debug exit  退出调试 //Stop debugging
+
+
+//布局Window layouts
+Project exploer / Outline
+Editor
+Ipyhon console /Variable explorer /Help
+
+

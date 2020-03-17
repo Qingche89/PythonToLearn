@@ -1,0 +1,18 @@
+//关键字
+False               class               from                or
+None                continue            global              pass
+True                def                 if                  raise
+and                 del                 import              return
+as                  elif                in                  try
+assert              else                is                  while
+async               except              lambda              with
+await               finally             nonlocal            yield
+break               for                 not         
+
+
+
+//Python     6个标准的数据类型
+Number数字 String字符串 List列表 Tuple元组 Set集合 Dictionary字典 
+Number String 为基础数据类型   List Tuple Set Dictionary为组合数据类型 
+Number String Tuple 为不可变数据  List Set Dictionary  为可变数据
+

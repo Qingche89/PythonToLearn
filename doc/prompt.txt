@@ -1,0 +1,24 @@
+//IPython 
+?help
+a?
+int?
+
+//python
+help()  #进入帮助模式  keywords  quit/q
+type()  #返回对象的类型
+
+//Anaconda Prompt
+查看库  conda list
+
+conda install -c conda-forge wordcloud
+
+pip install jieba
+
+pip uninstall numpy
+pip install numpy      
+
+
+//git
+git config -l
+user.name=SYN-HONOR
+user.email=1845018275@qq.com
