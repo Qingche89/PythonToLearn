@@ -12,7 +12,6 @@ for i in range(1,5):
 
 
 
-
 #2
 #检测数字特性
 import math
