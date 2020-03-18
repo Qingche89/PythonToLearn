@@ -16,7 +16,7 @@ for i in range(1, 100):
 print("100以内素数的和为：" ,str(sum) )
 
 
-n = eval(input("输入素数的范围："))
+n = eval(input("输入素数的起始位置："))
 ls = []
 count = 0
 while count < 6:
@@ -24,7 +24,7 @@ while count < 6:
         ls.append(n);
         count += 1
     n += 1
-print("{},{},{},{},{}".format(ls[0], ls[1], ls[2], ls[3], ls[4]))
+print("{}后{},{},{},{},{}".format(ls[0], ls[1], ls[2], ls[3], ls[4]))
 
 
 # M-5
