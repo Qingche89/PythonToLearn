@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#M-2
+
 #蟒蛇绘制
 import turtle as tl  #引入turtle库 作为别名
 tl.setup(650, 350, 200, 200)

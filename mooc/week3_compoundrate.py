@@ -10,4 +10,4 @@ for i in range(365):
        corpus = corpus*(1-loss_rate)
    else:
        corpus = corpus*(1+profit_rate)
-print("工作日的力量：{:.2f} ".format(corpus))
+print("工作日的力量：{0:.2f} ".format(corpus))

@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 
 
-#M-4
 #蒙特卡罗法计算圆周率
+
+
 import random as rm     #引入random随机标准库  标准库无需安装
 import time 
 

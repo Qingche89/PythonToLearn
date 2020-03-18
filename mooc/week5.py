@@ -1,5 +1,9 @@
-# M-5：函数和代码复用
-# M-5
+
+
+
+
+# W-5：函数和代码复用
+
 # 函数 是否为素数
 def isprime(x):
     for i in range(2, x):
@@ -24,10 +28,10 @@ while count < 6:
         ls.append(n);
         count += 1
     n += 1
-print("{}后{},{},{},{},{}".format(ls[0], ls[1], ls[2], ls[3], ls[4]))
+print("从{0:}开始的6个素数为：{1:},{2:},{3:},{4:},{5:},{6:}".format(n,ls[0], ls[1], ls[2], ls[3], ls[4],ls[5]))
 
 
-# M-5
+# W-5
 # 代码复用
 # 引入PyInstaller第三方库  需要联网安装  将.py打包成编译好的可执行文件
 # 安装使用 cmd命令行 pip install pyinstaller 联网下载安装

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-#M-3
+
 #引入time随机标准库
 import time as tm  #引入time随机标准库  标准库无需安装
 print(tm.time())#1970年  时间戳
@@ -12,7 +12,7 @@ tm.sleep(5)  #Do someting
 print("耗时",starttime- tm.perf_counter())
 
 
-#M-3
+
 #文本进度条
 import time
 scale = 50
