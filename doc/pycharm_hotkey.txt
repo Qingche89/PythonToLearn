@@ -5,3 +5,7 @@ Ctrl + Shift + F  全局搜索
 
 //字体
 1、editor FONT  Lucida  console  15
+
+
+//pycharm
+1、Alt+F2  重命名
