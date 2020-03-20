@@ -20,3 +20,5 @@ Editor
 Ipyhon console /Variable explorer /Help
 
 
+Ctr+Q  打开文档
+Ctr+shift+ i  转向定义

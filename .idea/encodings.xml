@@ -2,8 +2,8 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/data/threekingdoms.txt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/doc/head.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/mooc/week1.py" charset="GBK" />
-    <file url="PROJECT" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/doc/head.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc/week1.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
