@@ -1,10 +1,10 @@
 import jieba
-excludes = {"将军","却说","荆州","二人","不可","不能","如此"}
+excludes = {"将军","却说","荆州","二人","不可","不能","如此","商议","如何","军士","左右","军马"}
 txt = open("D:/Code/PythonToLearn/data/threekingdoms.txt", "r", encoding='utf-8').read()
 words  = jieba.lcut(txt)
 counts = {}
 for word in words:
-    if len(word) == 1:
+    if len(word) == 1:   #过滤符号
         continue
     elif word == "诸葛亮" or word == "孔明曰":
         rword = "孔明"

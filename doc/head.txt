@@ -1,4 +1,4 @@
-//settings - File and code template - python script
+//settings - File - File and code template - python script
 # _*_   coding:UTF-8 _*_
 #athor: ${USER}
 #Time:${DATE} ${TIME}

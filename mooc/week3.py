@@ -20,6 +20,11 @@ print("10除3的商余函数",divmod(10,3))
 print("int型转换",int(10.3331234))
 
 
+#引入math标准库
+import math
+print(math.pi , math.e)
+print(pow(4,0.5))  #开方
+
 #M-3
 #字符串类型及操作
 

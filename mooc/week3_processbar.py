@@ -2,7 +2,7 @@
 
 
 
-#引入time随机标准库
+#引入time标准库
 import time as tm  #引入time随机标准库  标准库无需安装
 print(tm.time())#1970年  时间戳
 print(tm.ctime())
