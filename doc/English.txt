@@ -1,0 +1,49 @@
+//英文
+#C
+category 分类
+
+#E
+execution 执行
+
+
+#D
+duplicate 复制
+
+
+#H
+horizontal水平的
+
+
+#I
+inspect  检查   verify/verified验证  detect 检测 
+issue  问题
+interactive  交互
+indent  缩进
+invalid  无效
+
+#K
+kernel  核心 
+
+#L
+literal 文字
+ 
+#P
+prompt  提示符
+profiler  分析器  profile 配置
+pattern  模式
+patch  补丁
+
+
+#S
+strip  去皮  
+scrollbar滚动条
+subscript 角标
+
+#T
+trial  实验
+tutorial 说明书
+traceback  回溯
+
+#W
+wrapper 封装
+
