@@ -21,8 +21,23 @@ words  = s.split()
 counts = {}
 for word in words:
     counts[word] = counts.get(word,0) + 1  #利用字典word作为键值统计次数
+
+
+#最大值
+print("出现次数最大值的名字为：")
 max_num , max_count = "",0
 for key in counts:
     if  counts[key] > max_count:
         max_num, max_count = key ,counts[key]
 print ("{0:<10}{1:>5}".format(max_num, max_count))
+
+#排序
+items=list(counts.items())
+items.sort(key=lambda x: x[1], reverse=True)
+print("全部排序前十名为：")
+for i in range(10):
+    word, count = items[i]  #视图  返回元组
+    print("{0:<10}{1:>5}".format(word, count))
+
+#共有多少个名字
+print("共有多少个名字：{}".format(len(items)))
